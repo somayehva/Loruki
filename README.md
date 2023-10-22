@@ -6,7 +6,7 @@ A visually appealing landing page for a cloud hosting company, Loruki Cloud Host
 
 ## Demo
 
-You can view the live landing page [here](link-to-your-live-demo).
+You can view the live landing page [here](http://somayeh.me/loruki/).
 
 ## Technologies Used
 
@@ -16,4 +16,4 @@ You can view the live landing page [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
